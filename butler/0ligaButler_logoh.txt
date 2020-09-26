@@ -1,0 +1,13 @@
+<table cellspacing="0" cellpadding="0" border="0"><tr>
+<td valign="center"><img src="images/pzbs.gif"></td>
+<td align="center">
+<font size="5">I i II liga DMP 2019/20</font><br><br>
+
+[<a class="zb" target="_blank" href="../1liga/n/nrrleaderb.html">&nbsp;grupa N&nbsp;</a>]&nbsp;
+[<a class="zb" target="_blank" href="../1liga/s/srrleaderb.html">&nbsp;grupa S&nbsp;</a>]<br>
+
+[<a class="zb" target="_blank" href="../2liga/nw/nwrrleaderb.html">&nbsp;grupa NW&nbsp;</a>]&nbsp;
+[<a class="zb" target="_blank" href="../2liga/ne/nerrleaderb.html">&nbsp;grupa NE&nbsp;</a>]&nbsp;
+[<a class="zb" target="_blank" href="../2liga/sw/swrrleaderb.html">&nbsp;grupa SW&nbsp;</a>]&nbsp;
+[<a class="zb" target="_blank" href="../2liga/se/serrleaderb.html">&nbsp;grupa SE&nbsp;</a>]
+</td></tr></table>

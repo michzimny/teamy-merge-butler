@@ -1,0 +1,7 @@
+<table cellspacing="0" cellpadding="0" border="0"><tr>
+<td valign="center"><img src="images/pzbs.gif"></td>
+<td align="center">
+<font size="5">I liga DMP 2019/20</font><br><br>
+[<a class="zb" target="_blank" href="../n/nrrleaderb.html">&nbsp;grupa N&nbsp;</a>]&nbsp;
+[<a class="zb" target="_blank" href="../s/srrleaderb.html">&nbsp;grupa S&nbsp;</a>]&nbsp;
+</td></tr></table>
